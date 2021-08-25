@@ -5,7 +5,7 @@ import java.util.regex.*;
 import java.lang.*;
 import java.math.*;
 
-public class Project3 {
+public class my_DB {
 	static final String JDBC_DRIVER = "oracle.jdbc.OracleDriver";
 	static final String DB_URL = "server_url";
 	static final String USER = "user";
